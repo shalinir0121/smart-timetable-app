@@ -10,6 +10,24 @@ A simple yet powerful timetable application that helps you plan your study sched
 4. **Progress Tracking** - Track completion percentage for each subject
 5. **Export to CSV** - Export your study plan for offline use
 
+## 📸 Screenshots
+
+### 1. Main Menu
+![Main Menu](images/main-menu.png)
+
+### 2. Adding an Exam
+![Add Exam](images/add-exam.png)
+
+### 3. Countdown Timer  
+![Countdown Timer](images/countdown.png)
+
+### 4. Progress Tracking
+![Progress Tracking](images/progress-tracking.png)
+
+### 5. CSV Export
+![CSV Export](images/csv-export.png)
+
+
 ## 🚀 Getting Started
 
 ### Prerequisites
